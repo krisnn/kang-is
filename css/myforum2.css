@@ -1,0 +1,24 @@
+.paginator{
+background:#698291 url(http://4.bp.blogspot.com/-9lNua6-Vdy8/UJyYBeE32rI/AAAAAAAADEk/g9a-rXRPfDQ/s1600/pattern.png);height:23px;padding:5px 15px 0 15px}
+.total{
+font-size:100%;
+text-shadow: -1px -1px rgba(0,0,0,0.3);
+}
+.total a:link, .total a:visited{
+font-size:12px;
+color:#ccd3d7;
+}
+.total a:hover{
+font-size:12px;
+color:#fff;
+text-decoration:none;
+}
+#topic_page .topic .body {
+font-size:100%;
+}
+#category_list .meta, #topic_list .topic_replies {
+font-size:100%;
+}
+ul, ol{
+margin-left:0;
+}
